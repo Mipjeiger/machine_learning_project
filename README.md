@@ -1,0 +1,2 @@
+# Machine_learning_project
+I possess a strong expertise in end-to-end machine learning by integrating the skill sets of a Data Analyst, Data Scientist, and Machine Learning Engineer. I have realized that AI serves as a valuable collaborator in the programming world, and it is essential to approach it with wisdom rather than perceiving it as a threat. I am open to engaging in in-depth discussions on machine learning to explore its potential further.
